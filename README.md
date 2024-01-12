@@ -1,3 +1,3 @@
 # Sudoku Solver
 
-This is the boilerplate for the Sudoku Solver project. Instructions to complete your project can be found at https://www.freecodecamp.org/learn/quality-assurance/quality-assurance-projects/sudoku-solver
+This is a fun freeCodeCamp project where one must complete a full stack JavaScript Sudoku Solver. I used the backtracking method and also added logic to handle starting puzzles that were designed to work against the backtracking algorithm. This project also includes test scripts using mocha and chai. 
