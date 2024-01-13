@@ -1,7 +1,8 @@
 const chai = require("chai");
 const chaiHttp = require('chai-http');
 const assert = chai.assert;
-const server = require('../server');
+// const server = require('../server');
+const server = "https://a49b0a4d-bffc-4c03-9861-98db8e5c369c-00-vmvy7us78aam.spock.replit.dev";
 
 chai.use(chaiHttp);
 
